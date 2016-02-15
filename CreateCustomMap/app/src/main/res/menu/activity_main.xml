@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_addmarkers"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_addmarkers"/>
+
+    <item
+        android:id="@+id/menu_about"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_about"/>
+    <item android:id="@+id/maptype"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Map Type...">
+        <menu>
+            <group android:id="@+id/groupmaptype"
+                android:checkableBehavior="single">
+                <item android:id="@+id/maptypeNORMAL"
+                    android:title="NORMAL"/>
+                <item android:id="@+id/maptypeSATELITE"
+                    android:title="SATELITE"/>
+                <item android:id="@+id/maptypeTERRAIN"
+                    android:title="TERRAIN"/>
+                <item android:id="@+id/maptypeHYBRID"
+                    android:title="HYBRID"/>
+                <item android:id="@+id/maptypeNONE"
+                    android:title="NONE"/>
+
+
+            </group>
+
+        </menu>
+
+    </item>
+    <item android:id="@+id/menu_legalnotices"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_legalnotices"/>
+
+</menu>

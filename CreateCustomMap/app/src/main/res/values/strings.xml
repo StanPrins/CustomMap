@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomMap@Stan.Prins</string>
+    <string name="google_app_id">638029932820</string>
+    <string name="menu_legalnotices">Legal Notices</string>
+    <string name="menu_about">About</string>
+    <string name="menu_addmarkers">Add Markers</string>
+</resources>
