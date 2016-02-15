@@ -3,6 +3,6 @@
 
 Havig full experience to modify google map api....
 	
-## Sample Scene
+## Captured Screen
 
 ![Screenshot](https://github.com/StanPrins/CustomMap/blob/master/CreateCustomMap/frame1.gif)
