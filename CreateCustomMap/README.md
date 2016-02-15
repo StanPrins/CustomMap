@@ -5,4 +5,4 @@ Havig full experience to modify google map api....
 	
 ## Sample Scene
 
-![Screenshot](https://github.com/StanPrins/CustomMap/blob/master/CreateCustomMap/screenshot.png)
+![Screenshot](https://github.com/StanPrins/CustomMap/blob/master/CreateCustomMap/frame1.gif)
